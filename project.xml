@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="TestApp"> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/PrasadHalingale27/SharpUpdate-master/master/TestApp/bin/Debug/TestApp.exe</url> 
+        <fileName>TestApp.exe</fileName> 
+     <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <description>Update: 06/19/2014:
+        This TEST Update From Finisar India #PRASAD</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
